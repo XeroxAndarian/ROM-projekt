@@ -7,7 +7,7 @@ https://github.com/XeroxAndarian/RSTRating
 ## Zanimanja
 * Pogledal bom gibanje igralčevih MMR (Match Making Rating). Če bo prišlo do naglih sprememb, bom poskusil ugotoviti, kaj je bil razlog (vrnitev po dolgotrajni odsotnosti ipd.).
 * Pogledal bom igralčeve točke za vsako od sezon, spremljal dogajanje tam in zopet analiziral nagle spremembe.
-* Primerjal bom igralce, poskusil ugotoviti, kateri imajo še velik potencial za izboljšanje in kateri so že dosegli svojo top formo.
+* Primerjal bom igralce, poskusil ugotoviti, kateri imajo še velik potencial za izboljšanje in kateri so že dosegli svojo višek.
 * Poskusil bom napovedati vrstni red trenutne sezone.
 
 ## Načrt
