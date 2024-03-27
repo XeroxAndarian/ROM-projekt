@@ -14,6 +14,7 @@ https://github.com/XeroxAndarian/RSTRating
 Podatke, ki sem jih zbiral bom obdelal. Zaradi lažje organizacije je zaenkrat v načrtu uporaba podatkov, do konca januarja leta 2024.
 S programom Mathematica bom tem podatke analiziral. 
 Na podlagi ugotovitev bom v modele vstavil podatke od februarja 2024 naprej in poskusil predvideti, kdo bo konec junija stal na zmagovalnem odru sezone.
+Na koncu bom povzel ugotovitve v krajši predstavitvi.
 
 
 
