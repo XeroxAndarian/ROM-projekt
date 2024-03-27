@@ -1,4 +1,4 @@
-# Rekreacija
+# Rekreacija?
 
 s pomočjo programa Mathematica bom v sklopu predmeta računalniška orodja v matematiki (FMF UNI-LJ 23/24) analiziral podatke, ki jih zadnjih nekaj let beležim pri rekreativnem nogometu, ki ga igramo s kolegi.
 Repositorj do zbirke podatkov in aplikaciji nasploh lahko najdete na spodnji povezavi:
