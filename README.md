@@ -16,5 +16,7 @@ S programom Mathematica bom tem podatke analiziral.
 Na podlagi ugotovitev bom v modele vstavil podatke od februarja 2024 naprej in poskusil predvideti, kdo bo konec junija stal na zmagovalnem odru sezone.
 Na koncu bom povzel ugotovitve v krajši predstavitvi.
 
+## Ugotovitve
+Na žalost se je sezona v času analiziranja razvila v ne najbolj zanimivo sezono, saj je bilo nekaj igralcev, ki so nadvladali. Vseeno je bilo zanimivo spremljati potek sezone, hkrati pa sem ananliziral še celotno zgodovino. Nekaj je zajeto v videu, več pa je zapisano v sami analizi. 
 
-
+Videoposnetek lahko najdete na povezavi: 
