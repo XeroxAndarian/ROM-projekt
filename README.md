@@ -19,6 +19,6 @@ Na koncu bom povzel ugotovitve v krajši predstavitvi.
 ## Ugotovitve
 Na žalost se je sezona v času analiziranja razvila v ne najbolj zanimivo sezono, saj je bilo nekaj igralcev, ki so nadvladali. Vseeno je bilo zanimivo spremljati potek sezone, hkrati pa sem ananliziral še celotno zgodovino. Nekaj je zajeto v videu, več pa je zapisano v sami analizi. 
 
-Videoposnetek lahko najdete na povezavi: 
+Videoposnetek lahko najdete na povezavi: https://www.youtube.com/watch?v=Ao8SGWqIemI&ab_channel=Ga%C5%A1perPetrovi%C4%8D
 
 Vprašanja lahko pošljete tudi na gasperpetrovic8@gmail.com
